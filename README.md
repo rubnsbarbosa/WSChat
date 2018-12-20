@@ -41,7 +41,6 @@ Implementação de Funcionalidades do WSChat(0-10);
 
 **Trabalho Individual**  
 **Data de Entrega:** 12/12 (ÚNICA ENTREGA)  
-**Endereço de Envio:** http://tinyurl.com/gnthrbw  
 
 Obs: O semestre finaliza oficialmente no dia 18/12.  
 
